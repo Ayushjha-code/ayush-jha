@@ -32,8 +32,7 @@
 - **🔥 Fire and Smoke Detection System** - An Arduino-based ICT project designed for safety and automation.
 - **🚀 DSA Mastery** - Optimized solutions for algorithms and data structures in C++.
 
-### 📈 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushjha-code&show_icons=true&theme=radical)
+
 
 ---
 
